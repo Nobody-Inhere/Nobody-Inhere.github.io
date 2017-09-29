@@ -6405,6 +6405,7 @@ iframe[seamless] {
   padding: 20px;
   margin-top: 40px;
   background-color: #333333;
+  display: none;
 }
 .footer h4 {
   color: #2982a8;
