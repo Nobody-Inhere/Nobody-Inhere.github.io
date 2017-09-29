@@ -6360,7 +6360,7 @@ iframe[seamless] {
 }
 .hero .hero-content p {
   font-size: 20px;
-  color: #aaaaaa;
+  color: #4baad3;
   margin-bottom: 20px;
 }
 .anchor {
@@ -6442,6 +6442,12 @@ iframe[seamless] {
 .footer li i {
   color: #4baad3;
 }
+
+div .myImages{
+  height: 5%;
+  width: 5;
+}
+
 .animated {
   -webkit-animation-fill-mode: both;
   -moz-animation-fill-mode: both;
